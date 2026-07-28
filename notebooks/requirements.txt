@@ -1,6 +1,0 @@
-pandas==2.5.1
-numpy==2.5.1
-matplotlib==3.10.5
-SQLAlchemy==2.0.51
-PyMySQL==1.2.1
-jupyter==1.1.1
